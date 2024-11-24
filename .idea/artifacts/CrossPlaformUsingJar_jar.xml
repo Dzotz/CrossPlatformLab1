@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CrossPlaformUsingJar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CrossPlaformUsingJar_jar</output-path>
+    <root id="archive" name="CrossPlaformUsingJar.jar">
+      <element id="module-output" name="CrossPlaformUsingJar" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CrossPlatform2/out/artifacts/CrossPlatform2_jar/CrossPlatform2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

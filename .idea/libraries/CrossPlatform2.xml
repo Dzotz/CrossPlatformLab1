@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CrossPlatform2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CrossPlatform2/out/artifacts/CrossPlatform2_jar/CrossPlatform2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
